@@ -45,3 +45,13 @@ p{
     .chose-us {
         font-size: 12px;
     }
+    
+    .greater {
+        width: 10px;
+        margin-left: 10px;
+    }
+    
+    .smile-img {
+        width: 300px;
+        height: auto;
+    }
