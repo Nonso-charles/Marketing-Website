@@ -57,3 +57,45 @@ p{
         margin-left: 150px;
         margin-top: -50px;
     }
+    
+    .pricing-plan {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 15px;
+      text-align: center;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    .highlight {
+      background-color: #f0fff0; /* Light background for the highlighted plan */
+    }
+    .pricing-plan .btn {
+      background-color: #a0f562; /* Change to the button color as needed */
+      border: none;
+      color: #000;
+    }
+    .pricing-plan .btn:hover {
+      background-color: #8cd14e; /* Darker shade on hover */
+    }
+    
+        .discover-section {
+      background-color: #1b543b; /* Adjust this color as needed */
+      color: #ffffff;
+      padding: 40px 20px;
+      text-align: center;
+      border-radius: 15px;
+      margin-bottom: 50px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+    .footer-section {
+      background-color: #1b543b; /* Adjust this color for the footer */
+      padding: 40px 20px;
+      color: #d0ffd6;
+    }
+    .footer-section a {
+      color: #d0ffd6;
+      text-decoration: none;
+    }
+    .footer-section a:hover {
+      text-decoration: underline;
+    }
